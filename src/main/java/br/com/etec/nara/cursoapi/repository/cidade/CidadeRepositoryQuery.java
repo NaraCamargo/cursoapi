@@ -3,7 +3,8 @@ package br.com.etec.nara.cursoapi.repository.cidade;
 import br.com.etec.nara.cursoapi.model.Cidade;
 import br.com.etec.nara.cursoapi.repository.filter.CidadeFilter;
 import org.springframework.data.domain.Page;
-import java.awt.print.Pageable;
+import org.springframework.data.domain.Pageable;
+
 
 public interface CidadeRepositoryQuery {
 

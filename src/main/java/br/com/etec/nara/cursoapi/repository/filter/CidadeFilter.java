@@ -21,4 +21,6 @@ public class CidadeFilter {
     }
 
     private String uf;
+
+
 }

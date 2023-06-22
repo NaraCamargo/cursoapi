@@ -11,4 +11,6 @@ public class CursoFilter {
     }
 
     private String nomecurso;
+
+
 }
